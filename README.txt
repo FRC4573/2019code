@@ -1,0 +1,1 @@
+This code was released on April 23, 2019 in reference to the rule stating that you must release code/design files publicly to legally use it next year (R16 for last year).
